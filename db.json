@@ -1,0 +1,145 @@
+{ "Courses": [
+  {
+      "ID": "1",
+      "Course": "ICS 298 Capstone Project: Phase 1",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture (reserved block for presentations, only some weeks)",
+      "Day": "Tu",
+      "StartTime": "08:30AM",
+      "EndTime": "10:20AM",
+      "Room": "CC 124"
+  },
+  {
+      "ID": "2",
+      "Course": "ICS 298 Capstone Project: Phase 1",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "W",
+      "StartTime": "11:00AM",
+      "EndTime": "11:50AM",
+      "Room": "CC 124"
+  },
+  {
+      "ID": "3",
+      "Course": "ICS-227-DX01 (10568) e-Portfolio 3",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": null,
+      "Day": null,
+      "StartTime": null,
+      "EndTime": null,
+      "Room": null
+  },
+  {
+      "ID": "4",
+      "Course": "ICS 224 Mobile App Development",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "F",
+      "StartTime": "02:00PM",
+      "EndTime": "04:50PM",
+      "Room": "Tec 259"
+  },
+  {
+      "ID": "5",
+      "Course": "ICS 224 Mobile App Development",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "Th",
+      "StartTime": "08:30AM",
+      "EndTime": "10:20AM",
+      "Room": "CC 122"
+  },
+  {
+      "ID": "6",
+      "Course": "ICS 221 Web Services",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "Th",
+      "StartTime": "12:30PM",
+      "EndTime": "01:20PM",
+      "Room": "Tec 259"
+  },
+  {
+      "ID": "7",
+      "Course": "ICS 221 Web Services",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "Th",
+      "StartTime": "01:30PM",
+      "EndTime": "04:20PM",
+      "Room": "Tec 259"
+  },
+  {
+      "ID": "8",
+      "Course": "ICS 214 Programming From C to C++",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "M",
+      "StartTime": "10:00AM",
+      "EndTime": "11:20AM",
+      "Room": "Tec 175"
+  },
+  {
+      "ID": "9",
+      "Course": "ICS 214 Programming From C to C++",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "W",
+      "StartTime": "12:00PM",
+      "EndTime": "01:20PM",
+      "Room": "CC 124"
+  },
+  {
+      "ID": "10",
+      "Course": "ICS 214 Programming From C to C++",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "F",
+      "StartTime": "10:00AM",
+      "EndTime": "11:50AM",
+      "Room": "Tec 257"
+  },
+  {
+      "ID": "11",
+      "Course": "ICS 200 Special Topics in Computing",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "M",
+      "StartTime": "12:30PM",
+      "EndTime": "03:20PM",
+      "Room": "Tec 259"
+  },
+  {
+      "ID": "12",
+      "Course": "ENGL 273 Technical Communication",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "Th",
+      "StartTime": "10:30AM",
+      "EndTime": "11:50AM",
+      "Room": "PA 101"
+  },
+  {
+      "ID": "13",
+      "Course": "ENGL 273 Technical Communication",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Seminar",
+      "Day": "F",
+      "StartTime": "08:30AM",
+      "EndTime": "09:50AM",
+      "Room": "CBA 201"
+  }
+]}
